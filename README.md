@@ -1,10 +1,13 @@
 <div align="center">
+
   Hello, 
 
-  
-  I am a Co-Founder of [Rewala](https://www.getrewala.com/).\
-  I am a Software & Cloud Engineer @ [SBA Communications](https://sbasite.com/English/overview/default.aspx).\
+
   I am a CS Student @ UF.\
+  I am a Co-Founder of [Rewala](https://www.getrewala.com/).\
+  I am a Software & Cloud Engineer @ [SBA Communications](https://sbasite.com/English/overview/default.aspx).
+
+  
   Reach out to me @ [kaleb.ellington33@gmail.com](mailto:kaleb.ellington33@gmail.com).
 </div>
 
