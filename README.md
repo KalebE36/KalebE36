@@ -4,7 +4,6 @@
 
 
   I am a CS Student @ UF.\
-  I am a Co-Founder of [Rewala](https://www.getrewala.com/).\
   I am a Software & Cloud Engineer @ [SBA Communications](https://sbasite.com/English/overview/default.aspx).
 
   
