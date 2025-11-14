@@ -3,7 +3,7 @@
   Hello, 
 
 
-  I am a computer science Student @ UF.\
+  I am a computer science student @ UF.\
   I am a software engineer @ [SBA Communications](https://sbasite.com/English/overview/default.aspx).
 
   
