@@ -3,8 +3,7 @@
   Hello, 
 
 
-  I am a computer science student @ UF.\
-  I am a software engineer @ [SBA Communications](https://sbasite.com/English/overview/default.aspx).
+  I am a software engineer @ [ReliaQuest](reliaquest.com).
 
   
   Reach out to me @ [kaleb.ellington03@gmail.com](mailto:kaleb.ellington33@gmail.com).
